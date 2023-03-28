@@ -1,5 +1,8 @@
-"forwardingGateway": {
-  "requiredHeaders": {
-    "X-Azure-NSKP" : "nskp-tco-demo-header-12345"
+{
+  "$schema": "https://json.schemastore.org/staticwebapp.config.json",
+  "forwardingGateway": {
+    "requiredHeaders": {
+      "X-Azure-Netskope": "NSKP-Header-TCO-DEMO-AZURE"
+    }
   }
 }
