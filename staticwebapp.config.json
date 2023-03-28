@@ -1,0 +1,5 @@
+"forwardingGateway": {
+  "requiredHeaders": {
+    "X-Azure-NSKP" : "nskp-tco-demo-header-12345"
+  }
+}
